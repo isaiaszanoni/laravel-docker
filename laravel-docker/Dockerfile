@@ -1,0 +1,1 @@
+FROM yveo/nginx-php-fpm:latest
